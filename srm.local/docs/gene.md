@@ -8,4 +8,15 @@
 * Electrical and Electronics Engineering
 * Environmental Science
 * Professional Skills and Practices
-* Constitution of India 
+* Constitution of India
+
+
+## Semester One
+### Course Offered
+* Physics: Electromagnetic Theory,
+Quantum Mechanics, Waves and Optics 
+* Chemistry 
+* Calculus and Linear Algebra 
+* Advanced Calculus and Complex Analysis 
+* Biostatistics for Biotechnologists 
+* Cell Biology
